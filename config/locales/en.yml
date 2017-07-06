@@ -42,4 +42,7 @@ en:
   users:
     new:
       sign_up_title: "Sign up"
-      sign_up_page_for: "This will be a signup page for new users"
+  shared:
+    error_messages:
+      text_1_1: "The form contains"
+      text_1_2: "error"
